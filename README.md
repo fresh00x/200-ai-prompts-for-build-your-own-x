@@ -1,4 +1,4 @@
-# 200 AI Prompts for Build-Your-Own-X
+# 200-ai-prompts-for-build-your-own-x
 
 Unleash votre créativité avec notre pack de prompts AI pour la niche Build-Your-Own-X. Ces prompts vous aideront à concevoir et à personnaliser vos propres projets, que ce soit un PC, un meuble ou un 
 
@@ -6,7 +6,7 @@ Unleash votre créativité avec notre pack de prompts AI pour la niche Build-You
 
 | Property | Value |
 |---|---|
-| Records | 47 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Unleash votre créativité avec notre pack de prompts AI pour la niche Build-You
 ## Sample
 
 ```json
-"Concevez un PC gaming personnalisé avec des composants high-end et un design unique."
+Keys: title, description, price
 ```
 
 ## Usage
